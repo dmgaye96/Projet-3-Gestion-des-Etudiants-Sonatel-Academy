@@ -1,0 +1,6 @@
+MGD275;Tene;Moustapha;Alioune;1994-10-25;770000000;email@gmail.com;present
+MGD22;NDIAYE;Ousmane;Alioune;1997-12-10;770101011;ousmane@gmail.com;present
+MGD53;NDIAYE;Amadou Lindore;Alioune;1996-01-04;785252000;lindore@gmil.com;exclue
+MGD391;GAYE;Doudou Mohamet;Babacar;1996-12-11;782257053;doudoumohametgaye@gmail.com;exclue
+MGD84;DIOP;Modou Mbacke;Babacar;2000-05-12;75520000;mbacke@gmail.com;present
+MGD392;SARR;Aliou;Babacar;2019-05-22;7855652522;dezfjnsn@dfedf;present
